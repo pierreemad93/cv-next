@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Raiseup learn soultions",
+  title: "Raiseup learn ",
   description: "Raiseup learn soultions company for training",
 };
 
